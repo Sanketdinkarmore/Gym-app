@@ -2,7 +2,7 @@
 Description
 The Gym Workout Planner App is a sleek and interactive web application built with React.js. It empowers users to create personalized workout routines tailored to their fitness levels and goals. Whether you're just starting out or are an advanced fitness enthusiast, this app simplifies the process of planning effective workouts to help you stay consistent on your fitness journey.
 
-Features
+## Features
 🌟 Dynamic Workouts: Generate customized workout plans based on fitness levels, goals, and preferences.
 🖥️ Built with React: A fast, responsive, and component-based UI for seamless interaction.
 💪 Interactive Interface: Simple and intuitive design for effortless navigation and use.
