@@ -8,7 +8,7 @@ The Gym Workout Planner App is a sleek and interactive web application built wit
 💪 Interactive Interface: Simple and intuitive design for effortless navigation and use.
 📈 Progress Tracking: (Optional, if applicable) Track your workout history and fitness progress.
 🔧 Scalable Architecture: Easily extendable for new features like diet plans or group challenges.
-Technologies Used
+ ## Technologies Used
 React.js
 CSS/SCSS for styling
 React Hooks for state and side effect management
